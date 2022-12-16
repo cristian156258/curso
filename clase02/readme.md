@@ -8,6 +8,5 @@ me permite visualizar los cambios entre commits
 modifica el ultimo commit realizado (sin realizar un nuevo commit)
 
 ## agrego lineas al proyecto para subir mas cmmit a github
-agrego lineas al proyecto para subir mas cmmit a github
-agrego lineas al proyecto para subir mas cmmit a githubb
-dfdsgffdgfdgfddfdfdsgfsdg
+agrego lineas al proyecto para subir mas commit a github
+agrego lineas al proyecto para subir mas commit a githubb
