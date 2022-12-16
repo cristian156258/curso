@@ -60,3 +60,12 @@ git push -u origin main
 ```sh
 git push
 ```
+
+## cuando se genera un conflicto entre el repositorio subido y el que queremos subir (cambio de hash)
+git push -f
+
+## archivo .gitignore
+informo que archivos o carpetas no subir al servidor
+
+## archivo .gitkeep
+indica a git que una carpeta va a quedar vacia pars futuros usos
