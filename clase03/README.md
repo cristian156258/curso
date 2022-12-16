@@ -75,3 +75,6 @@ informo que archivos o carpetas no subir al servidor
 
 ## archivo .gitkeep
 indica a git que una carpeta va a quedar vacia pars futuros usos
+
+## GIT ADD patch (dividir varios commit)
+git add --patch
