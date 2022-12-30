@@ -57,4 +57,11 @@ lo mismo que el merge
 git rebase (nombre de rama)
 
 ## rebase interactivo
-git rebase -i
+git rebase -i (hash del xommit anterior al que quiero fusionar)
+
+* Ordenar commits
+* Corregir mensajes de los commits
+* Unir commits
+* Separar commits
+
+
